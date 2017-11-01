@@ -2,7 +2,7 @@
 
 class String
 
-  def sentence?(string)
+  def sentence?
     self.end_with?(".")
   end
 
